@@ -1,0 +1,282 @@
+/home/sorinvladu9/anaconda3/lib/python3.7/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class '__main__.LeNet300_100' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+
+Beginning experiment: snip_fc1_260220_0_1
+
+tensor(213060, device='cuda:0')
+Stats before training: Train loss: 4.1571, Train Acc: 10.35, Valid loss: 4.1672, Valid Acc: 10.28
+Epoch: 0, Train loss: 0.1418, Train Acc: 96.07, Valid loss: 0.1483, Valid Acc: 95.50
+Epoch: 1, Train loss: 0.1090, Train Acc: 97.60, Valid loss: 0.1045, Valid Acc: 96.77
+Epoch: 2, Train loss: 0.1323, Train Acc: 98.34, Valid loss: 0.0953, Valid Acc: 96.97
+Epoch: 3, Train loss: 0.0195, Train Acc: 98.13, Valid loss: 0.1134, Valid Acc: 97.01
+Epoch: 4, Train loss: 0.1992, Train Acc: 99.07, Valid loss: 0.0812, Valid Acc: 97.75
+Epoch: 5, Train loss: 0.0030, Train Acc: 99.08, Valid loss: 0.0917, Valid Acc: 97.59
+Epoch: 6, Train loss: 0.0025, Train Acc: 99.28, Valid loss: 0.0812, Valid Acc: 97.69
+Epoch: 7, Train loss: 0.0129, Train Acc: 99.36, Valid loss: 0.0975, Valid Acc: 97.99
+Epoch: 8, Train loss: 0.0184, Train Acc: 99.43, Valid loss: 0.0899, Valid Acc: 97.99
+Epoch: 9, Train loss: 0.0007, Train Acc: 99.51, Valid loss: 0.0916, Valid Acc: 98.15
+Epoch: 10, Train loss: 0.0102, Train Acc: 99.54, Valid loss: 0.1053, Valid Acc: 97.75
+Epoch: 11, Train loss: 0.0379, Train Acc: 99.38, Valid loss: 0.1075, Valid Acc: 97.79
+Epoch: 12, Train loss: 0.0117, Train Acc: 99.57, Valid loss: 0.1024, Valid Acc: 97.95
+
+Beginning experiment: snip_fc1_260220_0_2
+
+tensor(170538, device='cuda:0')
+Stats before training: Train loss: 4.2361, Train Acc: 10.28, Valid loss: 4.2390, Valid Acc: 10.20
+Epoch: 0, Train loss: 0.0344, Train Acc: 96.03, Valid loss: 0.1557, Valid Acc: 95.46
+Epoch: 1, Train loss: 0.1502, Train Acc: 97.68, Valid loss: 0.1024, Valid Acc: 96.97
+Epoch: 2, Train loss: 0.0278, Train Acc: 98.01, Valid loss: 0.1069, Valid Acc: 96.83
+Epoch: 3, Train loss: 0.0245, Train Acc: 98.79, Valid loss: 0.0872, Valid Acc: 97.45
+Epoch: 4, Train loss: 0.0269, Train Acc: 98.82, Valid loss: 0.1053, Valid Acc: 97.25
+Epoch: 5, Train loss: 0.0022, Train Acc: 99.31, Valid loss: 0.0782, Valid Acc: 97.73
+Epoch: 6, Train loss: 0.0052, Train Acc: 99.43, Valid loss: 0.0885, Valid Acc: 97.99
+Epoch: 7, Train loss: 0.0034, Train Acc: 99.43, Valid loss: 0.0859, Valid Acc: 97.75
+Epoch: 8, Train loss: 0.0373, Train Acc: 99.60, Valid loss: 0.0835, Valid Acc: 98.07
+Epoch: 9, Train loss: 0.0115, Train Acc: 99.63, Valid loss: 0.0871, Valid Acc: 98.03
+
+Beginning experiment: snip_fc1_260220_0_3
+
+tensor(136511, device='cuda:0')
+Stats before training: Train loss: 4.4023, Train Acc: 10.33, Valid loss: 4.4024, Valid Acc: 10.20
+Epoch: 0, Train loss: 0.0254, Train Acc: 96.07, Valid loss: 0.1538, Valid Acc: 95.22
+Epoch: 1, Train loss: 0.0519, Train Acc: 98.07, Valid loss: 0.0943, Valid Acc: 96.95
+Epoch: 2, Train loss: 0.0231, Train Acc: 98.54, Valid loss: 0.0841, Valid Acc: 97.43
+Epoch: 3, Train loss: 0.0142, Train Acc: 98.95, Valid loss: 0.0797, Valid Acc: 97.73
+Epoch: 4, Train loss: 0.0321, Train Acc: 99.12, Valid loss: 0.0832, Valid Acc: 97.63
+Epoch: 5, Train loss: 0.0175, Train Acc: 99.35, Valid loss: 0.0854, Valid Acc: 97.75
+Epoch: 6, Train loss: 0.0046, Train Acc: 99.19, Valid loss: 0.0875, Valid Acc: 97.63
+Epoch: 7, Train loss: 0.0136, Train Acc: 99.61, Valid loss: 0.0823, Valid Acc: 97.85
+Epoch: 8, Train loss: 0.0011, Train Acc: 99.48, Valid loss: 0.0885, Valid Acc: 97.87
+Epoch: 9, Train loss: 0.0207, Train Acc: 99.34, Valid loss: 0.1056, Valid Acc: 97.65
+
+Beginning experiment: snip_fc1_260220_0_4
+
+tensor(109282, device='cuda:0')
+Stats before training: Train loss: 4.2251, Train Acc: 10.36, Valid loss: 4.2314, Valid Acc: 10.26
+Epoch: 0, Train loss: 0.1639, Train Acc: 95.57, Valid loss: 0.1727, Valid Acc: 94.74
+Epoch: 1, Train loss: 0.1022, Train Acc: 97.25, Valid loss: 0.1198, Valid Acc: 96.39
+Epoch: 2, Train loss: 0.1208, Train Acc: 98.29, Valid loss: 0.0921, Valid Acc: 97.17
+Epoch: 3, Train loss: 0.0944, Train Acc: 98.14, Valid loss: 0.1113, Valid Acc: 96.59
+Epoch: 4, Train loss: 0.0069, Train Acc: 99.06, Valid loss: 0.0805, Valid Acc: 97.57
+Epoch: 5, Train loss: 0.0031, Train Acc: 99.38, Valid loss: 0.0770, Valid Acc: 97.79
+Epoch: 6, Train loss: 0.0313, Train Acc: 98.96, Valid loss: 0.1037, Valid Acc: 97.29
+Epoch: 7, Train loss: 0.0057, Train Acc: 99.41, Valid loss: 0.0870, Valid Acc: 97.69
+Epoch: 8, Train loss: 0.0206, Train Acc: 99.56, Valid loss: 0.0904, Valid Acc: 97.55
+Epoch: 9, Train loss: 0.0066, Train Acc: 99.44, Valid loss: 0.0961, Valid Acc: 97.81
+Epoch: 10, Train loss: 0.0156, Train Acc: 99.45, Valid loss: 0.1099, Valid Acc: 97.75
+
+Beginning experiment: snip_fc1_260220_0_5
+
+tensor(87490, device='cuda:0')
+Stats before training: Train loss: 4.2753, Train Acc: 10.23, Valid loss: 4.2760, Valid Acc: 10.12
+Epoch: 0, Train loss: 0.1938, Train Acc: 95.58, Valid loss: 0.1714, Valid Acc: 94.94
+Epoch: 1, Train loss: 0.1128, Train Acc: 97.65, Valid loss: 0.1076, Valid Acc: 96.65
+Epoch: 2, Train loss: 0.0098, Train Acc: 98.28, Valid loss: 0.1011, Valid Acc: 96.85
+Epoch: 3, Train loss: 0.0249, Train Acc: 99.01, Valid loss: 0.0836, Valid Acc: 97.53
+Epoch: 4, Train loss: 0.0945, Train Acc: 99.04, Valid loss: 0.0894, Valid Acc: 97.49
+Epoch: 5, Train loss: 0.0129, Train Acc: 99.13, Valid loss: 0.0926, Valid Acc: 97.41
+Epoch: 6, Train loss: 0.0198, Train Acc: 99.33, Valid loss: 0.0915, Valid Acc: 97.61
+
+Beginning experiment: snip_fc1_260220_0_6
+
+tensor(70051, device='cuda:0')
+Stats before training: Train loss: 4.3946, Train Acc: 10.23, Valid loss: 4.3853, Valid Acc: 10.12
+Epoch: 0, Train loss: 0.2603, Train Acc: 95.21, Valid loss: 0.1778, Valid Acc: 94.56
+Epoch: 1, Train loss: 0.1300, Train Acc: 97.54, Valid loss: 0.1076, Valid Acc: 96.67
+Epoch: 2, Train loss: 0.0682, Train Acc: 98.68, Valid loss: 0.0854, Valid Acc: 97.37
+Epoch: 3, Train loss: 0.0659, Train Acc: 98.55, Valid loss: 0.0898, Valid Acc: 97.29
+Epoch: 4, Train loss: 0.0957, Train Acc: 98.95, Valid loss: 0.0833, Valid Acc: 97.59
+Epoch: 5, Train loss: 0.0534, Train Acc: 99.30, Valid loss: 0.0818, Valid Acc: 97.63
+Epoch: 6, Train loss: 0.0133, Train Acc: 99.19, Valid loss: 0.0912, Valid Acc: 97.51
+Epoch: 7, Train loss: 0.0017, Train Acc: 99.49, Valid loss: 0.0870, Valid Acc: 97.83
+Epoch: 8, Train loss: 0.0057, Train Acc: 99.47, Valid loss: 0.1089, Valid Acc: 97.83
+Epoch: 9, Train loss: 0.0647, Train Acc: 99.72, Valid loss: 0.0932, Valid Acc: 97.89
+Epoch: 10, Train loss: 0.0221, Train Acc: 99.38, Valid loss: 0.1121, Valid Acc: 97.71
+Epoch: 11, Train loss: 0.0133, Train Acc: 99.55, Valid loss: 0.1094, Valid Acc: 97.73
+
+Beginning experiment: snip_fc1_260220_0_7
+
+tensor(56094, device='cuda:0')
+Stats before training: Train loss: 4.2984, Train Acc: 10.23, Valid loss: 4.3077, Valid Acc: 10.12
+Epoch: 0, Train loss: 0.1588, Train Acc: 94.89, Valid loss: 0.1917, Valid Acc: 94.56
+Epoch: 1, Train loss: 0.2612, Train Acc: 97.39, Valid loss: 0.1037, Valid Acc: 96.93
+Epoch: 2, Train loss: 0.1163, Train Acc: 97.97, Valid loss: 0.0962, Valid Acc: 97.07
+Epoch: 3, Train loss: 0.0074, Train Acc: 98.81, Valid loss: 0.0782, Valid Acc: 97.69
+Epoch: 4, Train loss: 0.0905, Train Acc: 98.99, Valid loss: 0.0759, Valid Acc: 97.85
+Epoch: 5, Train loss: 0.0100, Train Acc: 99.31, Valid loss: 0.0649, Valid Acc: 97.95
+Epoch: 6, Train loss: 0.0095, Train Acc: 98.86, Valid loss: 0.0988, Valid Acc: 97.35
+Epoch: 7, Train loss: 0.0344, Train Acc: 98.82, Valid loss: 0.0993, Valid Acc: 97.23
+
+Beginning experiment: snip_fc1_260220_0_8
+
+tensor(44923, device='cuda:0')
+Stats before training: Train loss: 4.3540, Train Acc: 10.23, Valid loss: 4.3524, Valid Acc: 10.12
+Epoch: 0, Train loss: 0.2480, Train Acc: 94.03, Valid loss: 0.2152, Valid Acc: 93.86
+Epoch: 1, Train loss: 0.1077, Train Acc: 97.18, Valid loss: 0.1221, Valid Acc: 96.18
+Epoch: 2, Train loss: 0.0128, Train Acc: 98.03, Valid loss: 0.0998, Valid Acc: 97.17
+Epoch: 3, Train loss: 0.0389, Train Acc: 98.45, Valid loss: 0.0936, Valid Acc: 96.97
+Epoch: 4, Train loss: 0.0030, Train Acc: 99.02, Valid loss: 0.0883, Valid Acc: 97.29
+Epoch: 5, Train loss: 0.0205, Train Acc: 99.11, Valid loss: 0.0886, Valid Acc: 97.43
+Epoch: 6, Train loss: 0.0207, Train Acc: 99.20, Valid loss: 0.0897, Valid Acc: 97.25
+Epoch: 7, Train loss: 0.0222, Train Acc: 99.31, Valid loss: 0.1054, Valid Acc: 97.29
+Epoch: 8, Train loss: 0.0166, Train Acc: 99.42, Valid loss: 0.0939, Valid Acc: 97.45
+
+Beginning experiment: snip_fc1_260220_0_9
+
+tensor(35981, device='cuda:0')
+Stats before training: Train loss: 4.4233, Train Acc: 10.22, Valid loss: 4.4245, Valid Acc: 10.12
+Epoch: 0, Train loss: 0.1674, Train Acc: 93.98, Valid loss: 0.2217, Valid Acc: 93.63
+Epoch: 1, Train loss: 0.0999, Train Acc: 97.05, Valid loss: 0.1188, Valid Acc: 96.41
+Epoch: 2, Train loss: 0.2206, Train Acc: 98.04, Valid loss: 0.0969, Valid Acc: 97.13
+Epoch: 3, Train loss: 0.0137, Train Acc: 98.13, Valid loss: 0.0981, Valid Acc: 97.11
+Epoch: 4, Train loss: 0.0448, Train Acc: 98.89, Valid loss: 0.0793, Valid Acc: 97.79
+Epoch: 5, Train loss: 0.0452, Train Acc: 99.05, Valid loss: 0.0843, Valid Acc: 97.51
+Epoch: 6, Train loss: 0.0817, Train Acc: 99.39, Valid loss: 0.0754, Valid Acc: 97.67
+Epoch: 7, Train loss: 0.0203, Train Acc: 99.38, Valid loss: 0.0838, Valid Acc: 97.63
+
+Beginning experiment: snip_fc1_260220_0_10
+
+tensor(28823, device='cuda:0')
+Stats before training: Train loss: 3.8980, Train Acc: 10.50, Valid loss: 3.8898, Valid Acc: 10.54
+Epoch: 0, Train loss: 0.2528, Train Acc: 93.57, Valid loss: 0.2311, Valid Acc: 93.15
+Epoch: 1, Train loss: 0.0989, Train Acc: 96.94, Valid loss: 0.1316, Valid Acc: 96.06
+Epoch: 2, Train loss: 0.2339, Train Acc: 97.85, Valid loss: 0.1058, Valid Acc: 96.91
+Epoch: 3, Train loss: 0.0263, Train Acc: 97.78, Valid loss: 0.1170, Valid Acc: 96.69
+Epoch: 4, Train loss: 0.0753, Train Acc: 98.85, Valid loss: 0.0913, Valid Acc: 97.25
+Epoch: 5, Train loss: 0.0052, Train Acc: 98.72, Valid loss: 0.0934, Valid Acc: 97.29
+Epoch: 6, Train loss: 0.0600, Train Acc: 99.25, Valid loss: 0.0880, Valid Acc: 97.43
+Epoch: 7, Train loss: 0.1241, Train Acc: 99.40, Valid loss: 0.0866, Valid Acc: 97.55
+Epoch: 8, Train loss: 0.0410, Train Acc: 99.32, Valid loss: 0.0980, Valid Acc: 97.53
+Epoch: 9, Train loss: 0.0225, Train Acc: 99.62, Valid loss: 0.0921, Valid Acc: 97.63
+Epoch: 10, Train loss: 0.0193, Train Acc: 99.62, Valid loss: 0.1005, Valid Acc: 97.63
+Epoch: 11, Train loss: 0.0153, Train Acc: 99.49, Valid loss: 0.1069, Valid Acc: 97.59
+/home/sorinvladu9/anaconda3/lib/python3.7/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class '__main__.LeNet300_100' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+
+Beginning experiment: snip_fc1_260220_1_1
+
+tensor(213060, device='cuda:0')
+Stats before training: Train loss: 4.2470, Train Acc: 7.90, Valid loss: 4.2382, Valid Acc: 7.45
+Epoch: 0, Train loss: 0.1000, Train Acc: 95.46, Valid loss: 0.1779, Valid Acc: 94.92
+Epoch: 1, Train loss: 0.0956, Train Acc: 98.02, Valid loss: 0.1066, Valid Acc: 96.69
+Epoch: 2, Train loss: 0.0332, Train Acc: 98.57, Valid loss: 0.1024, Valid Acc: 96.85
+Epoch: 3, Train loss: 0.0205, Train Acc: 98.72, Valid loss: 0.0863, Valid Acc: 97.53
+Epoch: 4, Train loss: 0.0030, Train Acc: 99.15, Valid loss: 0.0818, Valid Acc: 97.79
+Epoch: 5, Train loss: 0.0664, Train Acc: 99.39, Valid loss: 0.0862, Valid Acc: 97.83
+Epoch: 6, Train loss: 0.0040, Train Acc: 99.34, Valid loss: 0.0941, Valid Acc: 97.79
+Epoch: 7, Train loss: 0.0067, Train Acc: 99.40, Valid loss: 0.0902, Valid Acc: 97.95
+Epoch: 8, Train loss: 0.0237, Train Acc: 99.39, Valid loss: 0.0980, Valid Acc: 97.61
+Epoch: 9, Train loss: 0.0022, Train Acc: 99.42, Valid loss: 0.1053, Valid Acc: 97.67
+Epoch: 10, Train loss: 0.2352, Train Acc: 99.30, Valid loss: 0.1138, Valid Acc: 97.73
+Epoch: 11, Train loss: 0.0158, Train Acc: 99.50, Valid loss: 0.1057, Valid Acc: 97.93
+
+Beginning experiment: snip_fc1_260220_1_2
+
+tensor(170538, device='cuda:0')
+Stats before training: Train loss: 4.2739, Train Acc: 9.50, Valid loss: 4.2706, Valid Acc: 9.16
+Epoch: 0, Train loss: 0.0211, Train Acc: 95.29, Valid loss: 0.1920, Valid Acc: 94.38
+Epoch: 1, Train loss: 0.1413, Train Acc: 97.54, Valid loss: 0.1124, Valid Acc: 96.63
+Epoch: 2, Train loss: 0.1138, Train Acc: 98.41, Valid loss: 0.0977, Valid Acc: 97.11
+Epoch: 3, Train loss: 0.0233, Train Acc: 98.72, Valid loss: 0.0928, Valid Acc: 97.57
+Epoch: 4, Train loss: 0.0644, Train Acc: 99.23, Valid loss: 0.0787, Valid Acc: 97.97
+Epoch: 5, Train loss: 0.0057, Train Acc: 99.18, Valid loss: 0.0916, Valid Acc: 97.51
+Epoch: 6, Train loss: 0.0747, Train Acc: 99.27, Valid loss: 0.0856, Valid Acc: 97.69
+Epoch: 7, Train loss: 0.0177, Train Acc: 99.45, Valid loss: 0.0915, Valid Acc: 97.87
+
+Beginning experiment: snip_fc1_260220_1_3
+
+tensor(136511, device='cuda:0')
+Stats before training: Train loss: 4.2995, Train Acc: 9.92, Valid loss: 4.2914, Valid Acc: 9.20
+Epoch: 0, Train loss: 0.1255, Train Acc: 94.22, Valid loss: 0.2061, Valid Acc: 93.61
+Epoch: 1, Train loss: 0.0407, Train Acc: 97.42, Valid loss: 0.1189, Valid Acc: 96.33
+Epoch: 2, Train loss: 0.0176, Train Acc: 98.49, Valid loss: 0.1004, Valid Acc: 97.15
+Epoch: 3, Train loss: 0.0198, Train Acc: 98.84, Valid loss: 0.0939, Valid Acc: 97.53
+Epoch: 4, Train loss: 0.0168, Train Acc: 99.18, Valid loss: 0.0893, Valid Acc: 97.79
+Epoch: 5, Train loss: 0.0224, Train Acc: 99.29, Valid loss: 0.0964, Valid Acc: 97.63
+
+Beginning experiment: snip_fc1_260220_1_4
+
+tensor(109282, device='cuda:0')
+Stats before training: Train loss: 4.1786, Train Acc: 8.18, Valid loss: 4.1659, Valid Acc: 7.69
+Epoch: 0, Train loss: 0.1900, Train Acc: 95.37, Valid loss: 0.1783, Valid Acc: 94.66
+Epoch: 1, Train loss: 0.0502, Train Acc: 97.61, Valid loss: 0.1216, Valid Acc: 96.41
+Epoch: 2, Train loss: 0.0881, Train Acc: 98.55, Valid loss: 0.0892, Valid Acc: 97.17
+Epoch: 3, Train loss: 0.1076, Train Acc: 98.88, Valid loss: 0.0876, Valid Acc: 97.47
+Epoch: 4, Train loss: 0.0832, Train Acc: 98.97, Valid loss: 0.1003, Valid Acc: 97.17
+Epoch: 5, Train loss: 0.0302, Train Acc: 99.00, Valid loss: 0.1086, Valid Acc: 97.29
+
+Beginning experiment: snip_fc1_260220_1_5
+
+tensor(87490, device='cuda:0')
+Stats before training: Train loss: 4.0675, Train Acc: 10.21, Valid loss: 4.0626, Valid Acc: 9.44
+Epoch: 0, Train loss: 0.1871, Train Acc: 95.57, Valid loss: 0.1825, Valid Acc: 94.58
+Epoch: 1, Train loss: 0.1466, Train Acc: 97.44, Valid loss: 0.1222, Valid Acc: 95.96
+Epoch: 2, Train loss: 0.0720, Train Acc: 98.44, Valid loss: 0.0988, Valid Acc: 97.03
+Epoch: 3, Train loss: 0.0037, Train Acc: 98.56, Valid loss: 0.0978, Valid Acc: 97.27
+Epoch: 4, Train loss: 0.0300, Train Acc: 99.01, Valid loss: 0.0835, Valid Acc: 97.67
+Epoch: 5, Train loss: 0.0222, Train Acc: 99.36, Valid loss: 0.0807, Valid Acc: 97.83
+Epoch: 6, Train loss: 0.0174, Train Acc: 99.39, Valid loss: 0.0867, Valid Acc: 97.61
+
+Beginning experiment: snip_fc1_260220_1_6
+
+tensor(70051, device='cuda:0')
+Stats before training: Train loss: 4.1095, Train Acc: 8.18, Valid loss: 4.1037, Valid Acc: 7.55
+Epoch: 0, Train loss: 0.1319, Train Acc: 94.63, Valid loss: 0.2090, Valid Acc: 94.12
+Epoch: 1, Train loss: 0.1878, Train Acc: 97.40, Valid loss: 0.1177, Valid Acc: 96.61
+Epoch: 2, Train loss: 0.0711, Train Acc: 98.41, Valid loss: 0.0994, Valid Acc: 97.27
+Epoch: 3, Train loss: 0.0615, Train Acc: 98.52, Valid loss: 0.1077, Valid Acc: 97.19
+Epoch: 4, Train loss: 0.0804, Train Acc: 99.21, Valid loss: 0.0933, Valid Acc: 97.63
+Epoch: 5, Train loss: 0.0125, Train Acc: 99.23, Valid loss: 0.0921, Valid Acc: 97.55
+Epoch: 6, Train loss: 0.0190, Train Acc: 99.46, Valid loss: 0.0947, Valid Acc: 97.63
+
+Beginning experiment: snip_fc1_260220_1_7
+
+tensor(56094, device='cuda:0')
+Stats before training: Train loss: 4.0344, Train Acc: 7.85, Valid loss: 4.0287, Valid Acc: 7.71
+Epoch: 0, Train loss: 0.0613, Train Acc: 94.52, Valid loss: 0.2103, Valid Acc: 93.45
+Epoch: 1, Train loss: 0.0481, Train Acc: 97.33, Valid loss: 0.1237, Valid Acc: 96.22
+Epoch: 2, Train loss: 0.0706, Train Acc: 98.32, Valid loss: 0.1083, Valid Acc: 96.87
+Epoch: 3, Train loss: 0.0797, Train Acc: 98.95, Valid loss: 0.0861, Valid Acc: 97.53
+Epoch: 4, Train loss: 0.0263, Train Acc: 98.84, Valid loss: 0.0927, Valid Acc: 97.39
+Epoch: 5, Train loss: 0.2378, Train Acc: 99.10, Valid loss: 0.0960, Valid Acc: 97.53
+Epoch: 6, Train loss: 0.0264, Train Acc: 99.16, Valid loss: 0.0929, Valid Acc: 97.49
+
+Beginning experiment: snip_fc1_260220_1_8
+
+tensor(44923, device='cuda:0')
+Stats before training: Train loss: 4.1524, Train Acc: 9.87, Valid loss: 4.1514, Valid Acc: 9.20
+Epoch: 0, Train loss: 0.1830, Train Acc: 94.08, Valid loss: 0.2239, Valid Acc: 93.45
+Epoch: 1, Train loss: 0.1826, Train Acc: 97.18, Valid loss: 0.1285, Valid Acc: 96.33
+Epoch: 2, Train loss: 0.0165, Train Acc: 97.95, Valid loss: 0.1134, Valid Acc: 96.71
+Epoch: 3, Train loss: 0.0457, Train Acc: 98.64, Valid loss: 0.0962, Valid Acc: 97.23
+Epoch: 4, Train loss: 0.0339, Train Acc: 98.55, Valid loss: 0.1049, Valid Acc: 97.03
+Epoch: 5, Train loss: 0.0179, Train Acc: 99.02, Valid loss: 0.0887, Valid Acc: 97.43
+Epoch: 6, Train loss: 0.0279, Train Acc: 99.07, Valid loss: 0.1040, Valid Acc: 97.33
+
+Beginning experiment: snip_fc1_260220_1_9
+
+tensor(35981, device='cuda:0')
+Stats before training: Train loss: 4.1340, Train Acc: 9.61, Valid loss: 4.1340, Valid Acc: 9.08
+Epoch: 0, Train loss: 0.1736, Train Acc: 93.57, Valid loss: 0.2333, Valid Acc: 92.95
+Epoch: 1, Train loss: 0.0945, Train Acc: 96.58, Valid loss: 0.1413, Valid Acc: 95.80
+Epoch: 2, Train loss: 0.0143, Train Acc: 97.96, Valid loss: 0.1152, Valid Acc: 96.63
+Epoch: 3, Train loss: 0.0103, Train Acc: 98.62, Valid loss: 0.0963, Valid Acc: 97.39
+Epoch: 4, Train loss: 0.0433, Train Acc: 98.88, Valid loss: 0.0922, Valid Acc: 97.35
+Epoch: 5, Train loss: 0.0753, Train Acc: 98.69, Valid loss: 0.1040, Valid Acc: 97.09
+Epoch: 6, Train loss: 0.0359, Train Acc: 98.78, Valid loss: 0.1009, Valid Acc: 97.19
+
+Beginning experiment: snip_fc1_260220_1_10
+
+tensor(28823, device='cuda:0')
+Stats before training: Train loss: 3.9197, Train Acc: 10.31, Valid loss: 3.9249, Valid Acc: 9.66
+Epoch: 0, Train loss: 0.0966, Train Acc: 93.49, Valid loss: 0.2463, Valid Acc: 93.11
+Epoch: 1, Train loss: 0.0439, Train Acc: 96.89, Valid loss: 0.1389, Valid Acc: 95.90
+Epoch: 2, Train loss: 0.0764, Train Acc: 97.92, Valid loss: 0.1100, Valid Acc: 96.57
+Epoch: 3, Train loss: 0.0597, Train Acc: 98.30, Valid loss: 0.0984, Valid Acc: 97.17
+Epoch: 4, Train loss: 0.1144, Train Acc: 98.82, Valid loss: 0.0946, Valid Acc: 97.13
+Epoch: 5, Train loss: 0.2193, Train Acc: 98.86, Valid loss: 0.1024, Valid Acc: 97.07
+Epoch: 6, Train loss: 0.0778, Train Acc: 99.17, Valid loss: 0.0945, Valid Acc: 97.27
+Epoch: 7, Train loss: 0.0338, Train Acc: 99.28, Valid loss: 0.0945, Valid Acc: 97.55
+Epoch: 8, Train loss: 0.0897, Train Acc: 99.43, Valid loss: 0.0969, Valid Acc: 97.51
+Epoch: 9, Train loss: 0.0497, Train Acc: 99.39, Valid loss: 0.1055, Valid Acc: 97.09
+Epoch: 10, Train loss: 0.0182, Train Acc: 99.45, Valid loss: 0.1081, Valid Acc: 97.21

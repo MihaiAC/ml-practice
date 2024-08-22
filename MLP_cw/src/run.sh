@@ -1,0 +1,2 @@
+python -u main.py --experiment_name='iter_snip_fc1_270220_0' --learning_rate=0.0012 --model='fc' --experiment_type='SNIP' --random_seed=0 --snip_LTH_experiment='lth_fc1_260220_0' --is_iterative_SNIP='True'
+python -u main.py --experiment_name='iter_snip_conv2_270220_0' --learning_rate=0.0002 --model='conv2' --experiment_type='SNIP' --random_seed=0 --snip_LTH_experiment='lth_conv2_260220_0' --is_iterative_SNIP='True'

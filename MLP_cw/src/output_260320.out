@@ -1,0 +1,595 @@
+
+Beginning experiment: lth_fc1_260220_0
+
+
+
+Starting prune iteration: 0
+
+Stats before training: Train loss: 4.2629, Train Acc: 10.33, Valid loss: 4.2723, Valid Acc: 10.22
+Epoch: 0, Train loss: 0.2770, Train Acc: 95.45, Valid loss: 0.1617, Valid Acc: 95.04
+Epoch: 1, Train loss: 0.0655, Train Acc: 98.07, Valid loss: 0.0959, Valid Acc: 96.93
+Epoch: 2, Train loss: 0.0153, Train Acc: 98.27, Valid loss: 0.0996, Valid Acc: 97.33
+Epoch: 3, Train loss: 0.0424, Train Acc: 98.45, Valid loss: 0.0972, Valid Acc: 97.13
+Epoch: 4, Train loss: 0.0156, Train Acc: 98.72, Valid loss: 0.1000, Valid Acc: 97.13
+Epoch: 5, Train loss: 0.1162, Train Acc: 98.94, Valid loss: 0.0893, Valid Acc: 97.61
+Epoch: 6, Train loss: 0.0149, Train Acc: 99.10, Valid loss: 0.1005, Valid Acc: 97.59
+Epoch: 7, Train loss: 0.0296, Train Acc: 99.08, Valid loss: 0.1020, Valid Acc: 97.39
+
+
+Starting prune iteration: 1
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.9977, Train Acc: 10.42, Valid loss: 3.0099, Valid Acc: 10.42
+Epoch: 0, Train loss: 0.0788, Train Acc: 96.77, Valid loss: 0.1289, Valid Acc: 95.86
+Epoch: 1, Train loss: 0.0105, Train Acc: 97.86, Valid loss: 0.1032, Valid Acc: 96.87
+Epoch: 2, Train loss: 0.1037, Train Acc: 98.35, Valid loss: 0.0909, Valid Acc: 97.41
+Epoch: 3, Train loss: 0.1332, Train Acc: 98.80, Valid loss: 0.0835, Valid Acc: 97.51
+Epoch: 4, Train loss: 0.0180, Train Acc: 98.61, Valid loss: 0.1164, Valid Acc: 96.85
+Epoch: 5, Train loss: 0.0106, Train Acc: 99.09, Valid loss: 0.0952, Valid Acc: 97.61
+Epoch: 6, Train loss: 0.0257, Train Acc: 99.20, Valid loss: 0.1018, Valid Acc: 97.47
+
+
+Starting prune iteration: 2
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.3072, Train Acc: 11.51, Valid loss: 2.3124, Valid Acc: 11.59
+Epoch: 0, Train loss: 0.1297, Train Acc: 97.07, Valid loss: 0.1161, Valid Acc: 96.53
+Epoch: 1, Train loss: 0.0775, Train Acc: 98.55, Valid loss: 0.0788, Valid Acc: 97.61
+Epoch: 2, Train loss: 0.0232, Train Acc: 98.42, Valid loss: 0.0891, Valid Acc: 97.23
+Epoch: 3, Train loss: 0.0129, Train Acc: 99.05, Valid loss: 0.0870, Valid Acc: 97.71
+Epoch: 4, Train loss: 0.0024, Train Acc: 99.33, Valid loss: 0.0872, Valid Acc: 97.85
+Epoch: 5, Train loss: 0.0013, Train Acc: 99.54, Valid loss: 0.0774, Valid Acc: 98.13
+Epoch: 6, Train loss: 0.0236, Train Acc: 99.25, Valid loss: 0.0909, Valid Acc: 98.03
+Epoch: 7, Train loss: 0.0196, Train Acc: 99.31, Valid loss: 0.0908, Valid Acc: 97.91
+
+
+Starting prune iteration: 3
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.0966, Train Acc: 15.10, Valid loss: 2.1045, Valid Acc: 15.34
+Epoch: 0, Train loss: 0.0205, Train Acc: 97.75, Valid loss: 0.1041, Valid Acc: 96.81
+Epoch: 1, Train loss: 0.0412, Train Acc: 98.76, Valid loss: 0.0760, Valid Acc: 97.73
+Epoch: 2, Train loss: 0.0595, Train Acc: 99.13, Valid loss: 0.0778, Valid Acc: 97.73
+Epoch: 3, Train loss: 0.0645, Train Acc: 99.38, Valid loss: 0.0808, Valid Acc: 97.93
+Epoch: 4, Train loss: 0.0058, Train Acc: 99.27, Valid loss: 0.0921, Valid Acc: 97.81
+Epoch: 5, Train loss: 0.0110, Train Acc: 99.63, Valid loss: 0.0812, Valid Acc: 97.95
+
+
+Starting prune iteration: 4
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.8643, Train Acc: 19.22, Valid loss: 1.8730, Valid Acc: 19.10
+Epoch: 0, Train loss: 0.0126, Train Acc: 97.69, Valid loss: 0.1047, Valid Acc: 96.89
+Epoch: 1, Train loss: 0.0355, Train Acc: 99.13, Valid loss: 0.0669, Valid Acc: 98.07
+Epoch: 2, Train loss: 0.0083, Train Acc: 99.50, Valid loss: 0.0626, Valid Acc: 98.11
+Epoch: 3, Train loss: 0.0172, Train Acc: 99.51, Valid loss: 0.0789, Valid Acc: 97.91
+Epoch: 4, Train loss: 0.0039, Train Acc: 99.25, Valid loss: 0.0771, Valid Acc: 97.77
+Epoch: 5, Train loss: 0.0127, Train Acc: 99.72, Valid loss: 0.0700, Valid Acc: 98.45
+Epoch: 6, Train loss: 0.0091, Train Acc: 99.68, Valid loss: 0.0727, Valid Acc: 98.23
+Epoch: 7, Train loss: 0.0071, Train Acc: 99.75, Valid loss: 0.0793, Valid Acc: 98.25
+
+
+Starting prune iteration: 5
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.9070, Train Acc: 24.42, Valid loss: 1.9068, Valid Acc: 24.56
+Epoch: 0, Train loss: 0.0567, Train Acc: 98.54, Valid loss: 0.0859, Valid Acc: 97.41
+Epoch: 1, Train loss: 0.0344, Train Acc: 99.36, Valid loss: 0.0681, Valid Acc: 97.97
+Epoch: 2, Train loss: 0.0578, Train Acc: 99.64, Valid loss: 0.0645, Valid Acc: 98.13
+Epoch: 3, Train loss: 0.0065, Train Acc: 99.41, Valid loss: 0.0754, Valid Acc: 98.17
+Epoch: 4, Train loss: 0.0132, Train Acc: 99.53, Valid loss: 0.0764, Valid Acc: 97.97
+
+
+Starting prune iteration: 6
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.6161, Train Acc: 30.34, Valid loss: 1.6230, Valid Acc: 30.46
+Epoch: 0, Train loss: 0.0188, Train Acc: 98.61, Valid loss: 0.0866, Valid Acc: 97.33
+Epoch: 1, Train loss: 0.0098, Train Acc: 99.44, Valid loss: 0.0642, Valid Acc: 97.89
+Epoch: 2, Train loss: 0.0030, Train Acc: 99.71, Valid loss: 0.0595, Valid Acc: 98.19
+Epoch: 3, Train loss: 0.0053, Train Acc: 99.65, Valid loss: 0.0718, Valid Acc: 97.87
+Epoch: 4, Train loss: 0.0099, Train Acc: 99.67, Valid loss: 0.0688, Valid Acc: 98.11
+
+
+Starting prune iteration: 7
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.5329, Train Acc: 50.57, Valid loss: 1.5419, Valid Acc: 50.34
+Epoch: 0, Train loss: 0.0753, Train Acc: 98.77, Valid loss: 0.0773, Valid Acc: 97.75
+Epoch: 1, Train loss: 0.0136, Train Acc: 99.49, Valid loss: 0.0609, Valid Acc: 98.03
+Epoch: 2, Train loss: 0.0027, Train Acc: 99.68, Valid loss: 0.0596, Valid Acc: 98.37
+Epoch: 3, Train loss: 0.0343, Train Acc: 99.80, Valid loss: 0.0625, Valid Acc: 98.27
+Epoch: 4, Train loss: 0.0055, Train Acc: 99.85, Valid loss: 0.0623, Valid Acc: 98.23
+
+
+Starting prune iteration: 8
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.5940, Train Acc: 38.09, Valid loss: 1.6038, Valid Acc: 37.55
+Epoch: 0, Train loss: 0.0367, Train Acc: 98.68, Valid loss: 0.0797, Valid Acc: 97.75
+Epoch: 1, Train loss: 0.0135, Train Acc: 99.55, Valid loss: 0.0584, Valid Acc: 98.13
+Epoch: 2, Train loss: 0.0454, Train Acc: 99.81, Valid loss: 0.0589, Valid Acc: 98.39
+Epoch: 3, Train loss: 0.0105, Train Acc: 99.84, Valid loss: 0.0620, Valid Acc: 98.21
+Epoch: 4, Train loss: 0.0047, Train Acc: 99.88, Valid loss: 0.0570, Valid Acc: 98.41
+
+
+Starting prune iteration: 9
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.7992, Train Acc: 39.30, Valid loss: 1.8003, Valid Acc: 40.10
+Epoch: 0, Train loss: 0.0437, Train Acc: 98.41, Valid loss: 0.0860, Valid Acc: 97.57
+Epoch: 1, Train loss: 0.0405, Train Acc: 99.49, Valid loss: 0.0589, Valid Acc: 98.15
+Epoch: 2, Train loss: 0.0105, Train Acc: 99.80, Valid loss: 0.0552, Valid Acc: 98.33
+Epoch: 3, Train loss: 0.0025, Train Acc: 99.84, Valid loss: 0.0622, Valid Acc: 98.29
+Epoch: 4, Train loss: 0.0025, Train Acc: 99.85, Valid loss: 0.0568, Valid Acc: 98.37
+Epoch: 5, Train loss: 0.0120, Train Acc: 99.92, Valid loss: 0.0600, Valid Acc: 98.49
+Epoch: 6, Train loss: 0.0018, Train Acc: 99.93, Valid loss: 0.0668, Valid Acc: 98.25
+Epoch: 7, Train loss: 0.0050, Train Acc: 99.87, Valid loss: 0.0790, Valid Acc: 98.25
+
+
+Starting prune iteration: 10
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.8603, Train Acc: 38.76, Valid loss: 1.8645, Valid Acc: 38.57
+Epoch: 0, Train loss: 0.0320, Train Acc: 98.49, Valid loss: 0.0862, Valid Acc: 97.49
+Epoch: 1, Train loss: 0.0066, Train Acc: 99.61, Valid loss: 0.0567, Valid Acc: 98.11
+Epoch: 2, Train loss: 0.0043, Train Acc: 99.83, Valid loss: 0.0541, Valid Acc: 98.43
+Epoch: 3, Train loss: 0.0033, Train Acc: 99.87, Valid loss: 0.0556, Valid Acc: 98.35
+Epoch: 4, Train loss: 0.0043, Train Acc: 99.94, Valid loss: 0.0552, Valid Acc: 98.43
+
+Beginning experiment: lth_fc1_260220_1
+
+
+
+Starting prune iteration: 0
+
+Stats before training: Train loss: 4.2140, Train Acc: 8.98, Valid loss: 4.2098, Valid Acc: 8.67
+Epoch: 0, Train loss: 0.1629, Train Acc: 95.99, Valid loss: 0.1616, Valid Acc: 95.38
+Epoch: 1, Train loss: 0.0815, Train Acc: 98.01, Valid loss: 0.1068, Valid Acc: 96.97
+Epoch: 2, Train loss: 0.1457, Train Acc: 98.01, Valid loss: 0.1268, Valid Acc: 96.35
+Epoch: 3, Train loss: 0.0035, Train Acc: 98.53, Valid loss: 0.1056, Valid Acc: 97.23
+Epoch: 4, Train loss: 0.0049, Train Acc: 98.77, Valid loss: 0.0980, Valid Acc: 97.21
+Epoch: 5, Train loss: 0.0705, Train Acc: 99.34, Valid loss: 0.1004, Valid Acc: 97.47
+Epoch: 6, Train loss: 0.0416, Train Acc: 98.77, Valid loss: 0.1206, Valid Acc: 97.13
+Epoch: 7, Train loss: 0.0271, Train Acc: 99.11, Valid loss: 0.1208, Valid Acc: 97.11
+
+
+Starting prune iteration: 1
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.9239, Train Acc: 13.42, Valid loss: 2.9242, Valid Acc: 12.61
+Epoch: 0, Train loss: 0.1251, Train Acc: 96.11, Valid loss: 0.1549, Valid Acc: 95.36
+Epoch: 1, Train loss: 0.0318, Train Acc: 98.19, Valid loss: 0.0986, Valid Acc: 96.95
+Epoch: 2, Train loss: 0.0430, Train Acc: 98.55, Valid loss: 0.0989, Valid Acc: 97.53
+Epoch: 3, Train loss: 0.1434, Train Acc: 99.13, Valid loss: 0.0896, Valid Acc: 97.71
+Epoch: 4, Train loss: 0.0252, Train Acc: 99.19, Valid loss: 0.0895, Valid Acc: 97.49
+
+
+Starting prune iteration: 2
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.4191, Train Acc: 25.00, Valid loss: 2.4276, Valid Acc: 24.24
+Epoch: 0, Train loss: 0.0725, Train Acc: 97.51, Valid loss: 0.1112, Valid Acc: 96.59
+Epoch: 1, Train loss: 0.0435, Train Acc: 98.74, Valid loss: 0.0874, Valid Acc: 97.33
+Epoch: 2, Train loss: 0.0036, Train Acc: 98.82, Valid loss: 0.0959, Valid Acc: 97.47
+Epoch: 3, Train loss: 0.0682, Train Acc: 98.64, Valid loss: 0.1033, Valid Acc: 97.37
+Epoch: 4, Train loss: 0.0020, Train Acc: 99.29, Valid loss: 0.0922, Valid Acc: 97.89
+Epoch: 5, Train loss: 0.0093, Train Acc: 99.48, Valid loss: 0.0919, Valid Acc: 97.79
+Epoch: 6, Train loss: 0.0007, Train Acc: 99.45, Valid loss: 0.0989, Valid Acc: 97.91
+Epoch: 7, Train loss: 0.0074, Train Acc: 99.69, Valid loss: 0.0959, Valid Acc: 98.15
+Epoch: 8, Train loss: 0.0507, Train Acc: 99.40, Valid loss: 0.1156, Valid Acc: 97.75
+Epoch: 9, Train loss: 0.0176, Train Acc: 99.41, Valid loss: 0.1144, Valid Acc: 97.91
+
+
+Starting prune iteration: 3
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.1977, Train Acc: 36.05, Valid loss: 2.2044, Valid Acc: 34.88
+Epoch: 0, Train loss: 0.0492, Train Acc: 97.78, Valid loss: 0.1005, Valid Acc: 97.31
+Epoch: 1, Train loss: 0.0179, Train Acc: 99.11, Valid loss: 0.0693, Valid Acc: 97.95
+Epoch: 2, Train loss: 0.0013, Train Acc: 98.94, Valid loss: 0.0962, Valid Acc: 97.27
+Epoch: 3, Train loss: 0.0019, Train Acc: 99.47, Valid loss: 0.0898, Valid Acc: 97.87
+Epoch: 4, Train loss: 0.0408, Train Acc: 99.60, Valid loss: 0.0851, Valid Acc: 98.07
+Epoch: 5, Train loss: 0.0034, Train Acc: 99.58, Valid loss: 0.0951, Valid Acc: 97.93
+Epoch: 6, Train loss: 0.0044, Train Acc: 99.54, Valid loss: 0.0985, Valid Acc: 97.83
+Epoch: 7, Train loss: 0.0117, Train Acc: 99.61, Valid loss: 0.1015, Valid Acc: 97.75
+
+
+Starting prune iteration: 4
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.1025, Train Acc: 39.22, Valid loss: 2.1228, Valid Acc: 37.51
+Epoch: 0, Train loss: 0.0721, Train Acc: 98.08, Valid loss: 0.0958, Valid Acc: 97.09
+Epoch: 1, Train loss: 0.0313, Train Acc: 99.20, Valid loss: 0.0784, Valid Acc: 97.59
+Epoch: 2, Train loss: 0.0022, Train Acc: 99.23, Valid loss: 0.0875, Valid Acc: 97.61
+Epoch: 3, Train loss: 0.0016, Train Acc: 99.55, Valid loss: 0.0797, Valid Acc: 97.91
+Epoch: 4, Train loss: 0.0003, Train Acc: 99.55, Valid loss: 0.0764, Valid Acc: 98.09
+Epoch: 5, Train loss: 0.0044, Train Acc: 99.43, Valid loss: 0.1079, Valid Acc: 97.55
+Epoch: 6, Train loss: 0.0062, Train Acc: 99.83, Valid loss: 0.0930, Valid Acc: 98.27
+
+
+Starting prune iteration: 5
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.8444, Train Acc: 52.84, Valid loss: 1.8580, Valid Acc: 51.77
+Epoch: 0, Train loss: 0.0616, Train Acc: 98.54, Valid loss: 0.0904, Valid Acc: 97.35
+Epoch: 1, Train loss: 0.1115, Train Acc: 99.37, Valid loss: 0.0742, Valid Acc: 97.99
+Epoch: 2, Train loss: 0.0016, Train Acc: 99.67, Valid loss: 0.0754, Valid Acc: 97.85
+Epoch: 3, Train loss: 0.0039, Train Acc: 99.66, Valid loss: 0.0747, Valid Acc: 98.09
+Epoch: 4, Train loss: 0.0005, Train Acc: 99.56, Valid loss: 0.0868, Valid Acc: 98.09
+Epoch: 5, Train loss: 0.0007, Train Acc: 99.77, Valid loss: 0.0850, Valid Acc: 98.25
+Epoch: 6, Train loss: 0.0104, Train Acc: 99.66, Valid loss: 0.1107, Valid Acc: 98.05
+Epoch: 7, Train loss: 0.0050, Train Acc: 99.83, Valid loss: 0.0951, Valid Acc: 98.17
+
+
+Starting prune iteration: 6
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.8958, Train Acc: 50.48, Valid loss: 1.9094, Valid Acc: 49.72
+Epoch: 0, Train loss: 0.0933, Train Acc: 98.67, Valid loss: 0.0877, Valid Acc: 97.43
+Epoch: 1, Train loss: 0.0206, Train Acc: 99.55, Valid loss: 0.0743, Valid Acc: 97.97
+Epoch: 2, Train loss: 0.0185, Train Acc: 99.59, Valid loss: 0.0760, Valid Acc: 97.97
+Epoch: 3, Train loss: 0.0040, Train Acc: 99.71, Valid loss: 0.0788, Valid Acc: 98.21
+Epoch: 4, Train loss: 0.0406, Train Acc: 99.61, Valid loss: 0.0872, Valid Acc: 97.91
+Epoch: 5, Train loss: 0.0005, Train Acc: 99.87, Valid loss: 0.0792, Valid Acc: 98.37
+Epoch: 6, Train loss: 0.0038, Train Acc: 99.90, Valid loss: 0.0909, Valid Acc: 98.21
+
+
+Starting prune iteration: 7
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.8142, Train Acc: 54.19, Valid loss: 1.8315, Valid Acc: 53.67
+Epoch: 0, Train loss: 0.0245, Train Acc: 98.46, Valid loss: 0.0907, Valid Acc: 97.09
+Epoch: 1, Train loss: 0.0132, Train Acc: 99.60, Valid loss: 0.0656, Valid Acc: 97.99
+Epoch: 2, Train loss: 0.0149, Train Acc: 99.71, Valid loss: 0.0769, Valid Acc: 97.89
+Epoch: 3, Train loss: 0.0241, Train Acc: 99.83, Valid loss: 0.0674, Valid Acc: 98.37
+Epoch: 4, Train loss: 0.0077, Train Acc: 99.80, Valid loss: 0.0758, Valid Acc: 98.37
+Epoch: 5, Train loss: 0.0125, Train Acc: 99.57, Valid loss: 0.0848, Valid Acc: 98.11
+
+
+Starting prune iteration: 8
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.9364, Train Acc: 52.33, Valid loss: 1.9454, Valid Acc: 51.65
+Epoch: 0, Train loss: 0.0182, Train Acc: 98.69, Valid loss: 0.0866, Valid Acc: 97.49
+Epoch: 1, Train loss: 0.0092, Train Acc: 99.58, Valid loss: 0.0714, Valid Acc: 97.95
+Epoch: 2, Train loss: 0.0104, Train Acc: 99.82, Valid loss: 0.0683, Valid Acc: 98.25
+Epoch: 3, Train loss: 0.0011, Train Acc: 99.87, Valid loss: 0.0713, Valid Acc: 98.27
+Epoch: 4, Train loss: 0.0454, Train Acc: 99.91, Valid loss: 0.0697, Valid Acc: 98.35
+Epoch: 5, Train loss: 0.0043, Train Acc: 99.89, Valid loss: 0.0792, Valid Acc: 98.15
+
+
+Starting prune iteration: 9
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 1.9155, Train Acc: 47.73, Valid loss: 1.9292, Valid Acc: 47.03
+Epoch: 0, Train loss: 0.0154, Train Acc: 98.66, Valid loss: 0.0872, Valid Acc: 97.41
+Epoch: 1, Train loss: 0.0017, Train Acc: 99.50, Valid loss: 0.0717, Valid Acc: 97.91
+Epoch: 2, Train loss: 0.0331, Train Acc: 99.77, Valid loss: 0.0695, Valid Acc: 98.13
+Epoch: 3, Train loss: 0.0519, Train Acc: 99.92, Valid loss: 0.0738, Valid Acc: 98.07
+Epoch: 4, Train loss: 0.0076, Train Acc: 99.87, Valid loss: 0.0744, Valid Acc: 98.23
+Epoch: 5, Train loss: 0.0043, Train Acc: 99.88, Valid loss: 0.0817, Valid Acc: 98.13
+
+
+Starting prune iteration: 10
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.1741, Train Acc: 40.91, Valid loss: 2.1894, Valid Acc: 40.20
+Epoch: 0, Train loss: 0.0766, Train Acc: 98.40, Valid loss: 0.0917, Valid Acc: 97.53
+Epoch: 1, Train loss: 0.0086, Train Acc: 99.57, Valid loss: 0.0653, Valid Acc: 97.93
+Epoch: 2, Train loss: 0.0173, Train Acc: 99.79, Valid loss: 0.0604, Valid Acc: 98.29
+Epoch: 3, Train loss: 0.0004, Train Acc: 99.92, Valid loss: 0.0663, Valid Acc: 98.31
+Epoch: 4, Train loss: 0.0042, Train Acc: 99.84, Valid loss: 0.0749, Valid Acc: 98.25
+Epoch: 5, Train loss: 0.0001, Train Acc: 99.98, Valid loss: 0.0680, Valid Acc: 98.31
+Epoch: 6, Train loss: 0.0024, Train Acc: 99.96, Valid loss: 0.0793, Valid Acc: 98.13
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to /home/sorinvladu9/MLP-WORKING/MLP_cw4/src/data/cifar-10-python.tar.gz
+0it [00:00, ?it/s]  0%|          | 0/170498071 [00:00<?, ?it/s]  0%|          | 40960/170498071 [00:00<12:10, 233194.01it/s]  0%|          | 204800/170498071 [00:00<09:26, 300530.73it/s]  1%|          | 876544/170498071 [00:01<06:48, 415206.54it/s]  2%|▏         | 3104768/170498071 [00:01<04:44, 588449.19it/s]  4%|▎         | 6234112/170498071 [00:01<03:16, 833915.96it/s]  6%|▌         | 9478144/170498071 [00:01<02:17, 1171344.03it/s]  8%|▊         | 13574144/170498071 [00:01<01:34, 1653076.78it/s] 10%|█         | 17653760/170498071 [00:01<01:05, 2321217.16it/s] 13%|█▎        | 21667840/170498071 [00:01<00:45, 3235822.57it/s] 15%|█▍        | 24903680/170498071 [00:01<00:33, 4350053.13it/s] 17%|█▋        | 28876800/170498071 [00:02<00:23, 5922826.99it/s] 19%|█▉        | 32972800/170498071 [00:02<00:17, 7967097.75it/s] 22%|██▏       | 37052416/170498071 [00:02<00:12, 10502301.45it/s] 24%|██▍       | 40697856/170498071 [00:02<00:10, 12693745.18it/s] 26%|██▌       | 44228608/170498071 [00:02<00:08, 15712820.35it/s] 28%|██▊       | 47964160/170498071 [00:02<00:06, 19017673.23it/s] 31%|███       | 52060160/170498071 [00:02<00:05, 22657129.34it/s] 33%|███▎      | 55721984/170498071 [00:02<00:04, 23502371.62it/s] 35%|███▍      | 59416576/170498071 [00:02<00:04, 26292530.70it/s] 37%|███▋      | 63102976/170498071 [00:03<00:03, 28759524.16it/s] 39%|███▉      | 67035136/170498071 [00:03<00:03, 31195064.97it/s] 41%|████▏     | 70737920/170498071 [00:03<00:03, 29703281.66it/s] 44%|████▎     | 74391552/170498071 [00:03<00:03, 31446627.07it/s] 46%|████▌     | 77930496/170498071 [00:03<00:02, 32529079.08it/s] 48%|████▊     | 81993728/170498071 [00:03<00:02, 34596424.56it/s] 50%|█████     | 85639168/170498071 [00:03<00:02, 34926599.43it/s] 52%|█████▏    | 89260032/170498071 [00:03<00:02, 32187223.34it/s] 54%|█████▍    | 92839936/170498071 [00:03<00:02, 33032454.63it/s] 57%|█████▋    | 96706560/170498071 [00:04<00:02, 34500586.34it/s] 59%|█████▉    | 100392960/170498071 [00:04<00:02, 35001730.89it/s] 61%|██████    | 103956480/170498071 [00:04<00:01, 35015244.57it/s] 63%|██████▎   | 107503616/170498071 [00:04<00:01, 32368916.37it/s] 65%|██████▌   | 111452160/170498071 [00:04<00:01, 34033973.01it/s] 67%|██████▋   | 115023872/170498071 [00:04<00:01, 34366981.91it/s] 70%|██████▉   | 118677504/170498071 [00:04<00:01, 34976070.25it/s] 72%|███████▏  | 122249216/170498071 [00:04<00:01, 32014923.59it/s] 74%|███████▍  | 126296064/170498071 [00:04<00:01, 34151617.91it/s] 76%|███████▌  | 129851392/170498071 [00:05<00:01, 34243298.40it/s] 78%|███████▊  | 133455872/170498071 [00:05<00:01, 34748549.78it/s] 80%|████████  | 136994816/170498071 [00:05<00:00, 34802131.44it/s] 83%|████████▎ | 140828672/170498071 [00:05<00:00, 33270288.67it/s] 85%|████████▍ | 144400384/170498071 [00:05<00:00, 33829713.41it/s] 87%|████████▋ | 148021248/170498071 [00:05<00:00, 34268994.88it/s] 89%|████████▉ | 151494656/170498071 [00:05<00:00, 34265724.26it/s] 91%|█████████ | 155574272/170498071 [00:05<00:00, 35987883.24it/s] 93%|█████████▎| 159211520/170498071 [00:05<00:00, 33325022.69it/s] 95%|█████████▌| 162668544/170498071 [00:05<00:00, 33624716.63it/s] 98%|█████████▊| 166289408/170498071 [00:06<00:00, 34352452.08it/s]100%|█████████▉| 169762816/170498071 [00:06<00:00, 34336370.81it/s]170500096it [00:06, 27511032.51it/s]                               
+Extracting /home/sorinvladu9/MLP-WORKING/MLP_cw4/src/data/cifar-10-python.tar.gz to /home/sorinvladu9/MLP-WORKING/MLP_cw4/src/data
+
+Beginning experiment: lth_conv2_260220_0
+
+
+
+Starting prune iteration: 0
+
+Stats before training: Train loss: 2.9493, Train Acc: 9.90, Valid loss: 2.9158, Valid Acc: 10.96
+Epoch: 0, Train loss: 1.0950, Train Acc: 50.43, Valid loss: 1.4125, Valid Acc: 49.22
+Epoch: 1, Train loss: 1.0345, Train Acc: 63.50, Valid loss: 1.1605, Valid Acc: 59.32
+Epoch: 2, Train loss: 0.8783, Train Acc: 67.50, Valid loss: 1.0855, Valid Acc: 61.33
+Epoch: 3, Train loss: 0.7584, Train Acc: 74.14, Valid loss: 1.0156, Valid Acc: 65.18
+Epoch: 4, Train loss: 0.8214, Train Acc: 76.87, Valid loss: 0.9933, Valid Acc: 65.68
+Epoch: 5, Train loss: 0.4839, Train Acc: 84.22, Valid loss: 0.9714, Valid Acc: 67.83
+Epoch: 6, Train loss: 0.4904, Train Acc: 87.19, Valid loss: 0.9928, Valid Acc: 67.19
+Epoch: 7, Train loss: 0.2658, Train Acc: 92.47, Valid loss: 1.0417, Valid Acc: 68.39
+Epoch: 8, Train loss: 0.2150, Train Acc: 94.24, Valid loss: 1.1487, Valid Acc: 67.77
+Epoch: 9, Train loss: 0.1149, Train Acc: 97.12, Valid loss: 1.3004, Valid Acc: 67.27
+
+
+Starting prune iteration: 1
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.6641, Train Acc: 9.98, Valid loss: 2.6618, Valid Acc: 10.20
+Epoch: 0, Train loss: 1.1473, Train Acc: 52.62, Valid loss: 1.3785, Valid Acc: 50.94
+Epoch: 1, Train loss: 1.0156, Train Acc: 63.87, Valid loss: 1.1455, Valid Acc: 58.78
+Epoch: 2, Train loss: 0.9706, Train Acc: 70.72, Valid loss: 1.0251, Valid Acc: 64.26
+Epoch: 3, Train loss: 0.7293, Train Acc: 74.44, Valid loss: 1.0154, Valid Acc: 64.50
+Epoch: 4, Train loss: 0.8306, Train Acc: 80.42, Valid loss: 0.9449, Valid Acc: 67.89
+Epoch: 5, Train loss: 0.4698, Train Acc: 84.60, Valid loss: 1.0034, Valid Acc: 67.57
+Epoch: 6, Train loss: 0.5479, Train Acc: 88.34, Valid loss: 1.0289, Valid Acc: 67.77
+Epoch: 7, Train loss: 0.3026, Train Acc: 90.45, Valid loss: 1.1096, Valid Acc: 66.77
+
+
+Starting prune iteration: 2
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.5390, Train Acc: 10.38, Valid loss: 2.5516, Valid Acc: 10.14
+Epoch: 0, Train loss: 1.1283, Train Acc: 57.21, Valid loss: 1.3018, Valid Acc: 54.42
+Epoch: 1, Train loss: 0.8779, Train Acc: 69.89, Valid loss: 1.0604, Valid Acc: 62.77
+Epoch: 2, Train loss: 0.7789, Train Acc: 73.33, Valid loss: 1.0213, Valid Acc: 64.22
+Epoch: 3, Train loss: 0.5837, Train Acc: 80.36, Valid loss: 0.9794, Valid Acc: 66.55
+Epoch: 4, Train loss: 0.5438, Train Acc: 84.56, Valid loss: 0.9896, Valid Acc: 66.91
+Epoch: 5, Train loss: 0.3342, Train Acc: 89.77, Valid loss: 1.0429, Valid Acc: 66.59
+Epoch: 6, Train loss: 0.2026, Train Acc: 91.42, Valid loss: 1.1329, Valid Acc: 67.45
+Epoch: 7, Train loss: 0.1526, Train Acc: 96.10, Valid loss: 1.2268, Valid Acc: 66.47
+
+
+Starting prune iteration: 3
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.9928, Train Acc: 12.24, Valid loss: 3.0136, Valid Acc: 11.81
+Epoch: 0, Train loss: 1.1794, Train Acc: 60.07, Valid loss: 1.2277, Valid Acc: 57.23
+Epoch: 1, Train loss: 0.7509, Train Acc: 74.59, Valid loss: 0.9939, Valid Acc: 65.88
+Epoch: 2, Train loss: 0.8087, Train Acc: 79.27, Valid loss: 0.9755, Valid Acc: 65.98
+Epoch: 3, Train loss: 0.4661, Train Acc: 84.86, Valid loss: 1.0186, Valid Acc: 66.83
+Epoch: 4, Train loss: 0.2623, Train Acc: 89.48, Valid loss: 1.0164, Valid Acc: 67.95
+Epoch: 5, Train loss: 0.2107, Train Acc: 94.10, Valid loss: 1.1085, Valid Acc: 67.81
+Epoch: 6, Train loss: 0.1741, Train Acc: 96.22, Valid loss: 1.1980, Valid Acc: 67.81
+Epoch: 7, Train loss: 0.1112, Train Acc: 97.05, Valid loss: 1.3240, Valid Acc: 67.93
+
+
+Starting prune iteration: 4
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.6126, Train Acc: 12.06, Valid loss: 3.6484, Valid Acc: 11.16
+Epoch: 0, Train loss: 0.8682, Train Acc: 63.27, Valid loss: 1.1840, Valid Acc: 58.23
+Epoch: 1, Train loss: 0.6938, Train Acc: 76.06, Valid loss: 1.0252, Valid Acc: 64.22
+Epoch: 2, Train loss: 0.5604, Train Acc: 83.96, Valid loss: 0.9582, Valid Acc: 67.75
+Epoch: 3, Train loss: 0.3288, Train Acc: 90.38, Valid loss: 1.0257, Valid Acc: 67.87
+Epoch: 4, Train loss: 0.2825, Train Acc: 94.11, Valid loss: 1.0659, Valid Acc: 68.09
+Epoch: 5, Train loss: 0.1458, Train Acc: 96.09, Valid loss: 1.2664, Valid Acc: 66.93
+Epoch: 6, Train loss: 0.2496, Train Acc: 96.80, Valid loss: 1.3958, Valid Acc: 66.08
+Epoch: 7, Train loss: 0.0601, Train Acc: 98.81, Valid loss: 1.4415, Valid Acc: 67.73
+
+
+Starting prune iteration: 5
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.6009, Train Acc: 10.26, Valid loss: 3.6376, Valid Acc: 9.98
+Epoch: 0, Train loss: 0.9321, Train Acc: 65.96, Valid loss: 1.1374, Valid Acc: 60.20
+Epoch: 1, Train loss: 0.5547, Train Acc: 82.14, Valid loss: 0.9557, Valid Acc: 66.49
+Epoch: 2, Train loss: 0.7347, Train Acc: 87.29, Valid loss: 0.9767, Valid Acc: 67.79
+Epoch: 3, Train loss: 0.2262, Train Acc: 93.81, Valid loss: 1.0802, Valid Acc: 67.63
+Epoch: 4, Train loss: 0.2774, Train Acc: 96.43, Valid loss: 1.1529, Valid Acc: 68.27
+Epoch: 5, Train loss: 0.0753, Train Acc: 98.73, Valid loss: 1.3160, Valid Acc: 67.37
+Epoch: 6, Train loss: 0.1082, Train Acc: 99.14, Valid loss: 1.4397, Valid Acc: 67.71
+Epoch: 7, Train loss: 0.0430, Train Acc: 99.18, Valid loss: 1.5991, Valid Acc: 67.31
+
+
+Starting prune iteration: 6
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 4.1458, Train Acc: 10.02, Valid loss: 4.1890, Valid Acc: 9.78
+Epoch: 0, Train loss: 0.8761, Train Acc: 68.59, Valid loss: 1.1216, Valid Acc: 61.10
+Epoch: 1, Train loss: 0.4857, Train Acc: 85.73, Valid loss: 0.9501, Valid Acc: 67.37
+Epoch: 2, Train loss: 0.3968, Train Acc: 90.56, Valid loss: 0.9950, Valid Acc: 68.49
+Epoch: 3, Train loss: 0.1944, Train Acc: 94.65, Valid loss: 1.1665, Valid Acc: 66.33
+Epoch: 4, Train loss: 0.1788, Train Acc: 97.50, Valid loss: 1.2103, Valid Acc: 67.93
+Epoch: 5, Train loss: 0.0764, Train Acc: 98.59, Valid loss: 1.3155, Valid Acc: 67.23
+
+
+Starting prune iteration: 7
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.4599, Train Acc: 14.02, Valid loss: 3.4969, Valid Acc: 13.09
+Epoch: 0, Train loss: 0.8666, Train Acc: 68.57, Valid loss: 1.1248, Valid Acc: 60.38
+Epoch: 1, Train loss: 0.4660, Train Acc: 86.62, Valid loss: 0.9561, Valid Acc: 67.77
+Epoch: 2, Train loss: 0.3513, Train Acc: 90.86, Valid loss: 0.9926, Valid Acc: 67.69
+Epoch: 3, Train loss: 0.1624, Train Acc: 96.58, Valid loss: 1.1033, Valid Acc: 67.73
+Epoch: 4, Train loss: 0.1337, Train Acc: 96.68, Valid loss: 1.2257, Valid Acc: 67.49
+
+
+Starting prune iteration: 8
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.1090, Train Acc: 14.88, Valid loss: 3.1588, Valid Acc: 14.08
+Epoch: 0, Train loss: 0.9436, Train Acc: 68.51, Valid loss: 1.1213, Valid Acc: 60.60
+Epoch: 1, Train loss: 0.4849, Train Acc: 85.60, Valid loss: 0.9694, Valid Acc: 67.11
+Epoch: 2, Train loss: 0.3799, Train Acc: 89.70, Valid loss: 0.9904, Valid Acc: 67.23
+Epoch: 3, Train loss: 0.1932, Train Acc: 95.27, Valid loss: 1.1006, Valid Acc: 67.43
+Epoch: 4, Train loss: 0.1510, Train Acc: 96.40, Valid loss: 1.2036, Valid Acc: 66.39
+Epoch: 5, Train loss: 0.0697, Train Acc: 98.92, Valid loss: 1.3190, Valid Acc: 67.77
+Epoch: 6, Train loss: 0.0294, Train Acc: 99.29, Valid loss: 1.4341, Valid Acc: 67.39
+Epoch: 7, Train loss: 0.0339, Train Acc: 99.47, Valid loss: 1.6309, Valid Acc: 67.25
+Epoch: 8, Train loss: 0.0220, Train Acc: 99.74, Valid loss: 1.7418, Valid Acc: 66.63
+
+
+Starting prune iteration: 9
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.4582, Train Acc: 10.21, Valid loss: 3.5013, Valid Acc: 9.92
+Epoch: 0, Train loss: 0.8433, Train Acc: 69.40, Valid loss: 1.1248, Valid Acc: 61.37
+Epoch: 1, Train loss: 0.5207, Train Acc: 83.26, Valid loss: 1.0190, Valid Acc: 65.12
+Epoch: 2, Train loss: 0.3837, Train Acc: 91.96, Valid loss: 0.9673, Valid Acc: 67.75
+Epoch: 3, Train loss: 0.1720, Train Acc: 96.20, Valid loss: 1.1114, Valid Acc: 67.97
+Epoch: 4, Train loss: 0.1825, Train Acc: 97.89, Valid loss: 1.1968, Valid Acc: 67.51
+Epoch: 5, Train loss: 0.0610, Train Acc: 99.10, Valid loss: 1.3699, Valid Acc: 67.91
+Epoch: 6, Train loss: 0.1070, Train Acc: 99.67, Valid loss: 1.4777, Valid Acc: 67.49
+Epoch: 7, Train loss: 0.0270, Train Acc: 99.71, Valid loss: 1.6790, Valid Acc: 66.57
+
+
+Starting prune iteration: 10
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.6280, Train Acc: 10.02, Valid loss: 3.6688, Valid Acc: 9.78
+Epoch: 0, Train loss: 0.8845, Train Acc: 68.09, Valid loss: 1.1414, Valid Acc: 60.98
+Epoch: 1, Train loss: 0.5076, Train Acc: 85.06, Valid loss: 0.9759, Valid Acc: 66.35
+Epoch: 2, Train loss: 0.3876, Train Acc: 90.22, Valid loss: 0.9953, Valid Acc: 66.97
+Epoch: 3, Train loss: 0.1618, Train Acc: 97.22, Valid loss: 1.0712, Valid Acc: 68.03
+Epoch: 4, Train loss: 0.1036, Train Acc: 98.41, Valid loss: 1.1562, Valid Acc: 67.61
+Epoch: 5, Train loss: 0.0779, Train Acc: 98.60, Valid loss: 1.3980, Valid Acc: 66.73
+Epoch: 6, Train loss: 0.0353, Train Acc: 99.74, Valid loss: 1.4488, Valid Acc: 67.03
+Files already downloaded and verified
+
+Beginning experiment: lth_conv2_260220_1
+
+
+
+Starting prune iteration: 0
+
+Stats before training: Train loss: 3.7009, Train Acc: 9.94, Valid loss: 3.6673, Valid Acc: 10.58
+Epoch: 0, Train loss: 1.6268, Train Acc: 50.62, Valid loss: 1.4100, Valid Acc: 50.30
+Epoch: 1, Train loss: 1.0941, Train Acc: 60.77, Valid loss: 1.2026, Valid Acc: 57.09
+Epoch: 2, Train loss: 1.0534, Train Acc: 67.93, Valid loss: 1.0641, Valid Acc: 62.63
+Epoch: 3, Train loss: 0.7465, Train Acc: 74.08, Valid loss: 0.9801, Valid Acc: 65.46
+Epoch: 4, Train loss: 0.8988, Train Acc: 77.19, Valid loss: 0.9814, Valid Acc: 66.71
+Epoch: 5, Train loss: 0.4819, Train Acc: 84.66, Valid loss: 0.9388, Valid Acc: 68.07
+Epoch: 6, Train loss: 0.6776, Train Acc: 86.93, Valid loss: 0.9764, Valid Acc: 67.83
+Epoch: 7, Train loss: 0.2880, Train Acc: 91.21, Valid loss: 1.0474, Valid Acc: 68.29
+Epoch: 8, Train loss: 0.2574, Train Acc: 93.84, Valid loss: 1.1193, Valid Acc: 68.63
+Epoch: 9, Train loss: 0.1333, Train Acc: 96.49, Valid loss: 1.2764, Valid Acc: 67.59
+Epoch: 10, Train loss: 0.1019, Train Acc: 97.19, Valid loss: 1.4375, Valid Acc: 67.37
+Epoch: 11, Train loss: 0.0599, Train Acc: 98.68, Valid loss: 1.5479, Valid Acc: 67.41
+
+
+Starting prune iteration: 1
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.9518, Train Acc: 11.36, Valid loss: 2.9314, Valid Acc: 11.18
+Epoch: 0, Train loss: 1.0976, Train Acc: 53.66, Valid loss: 1.3444, Valid Acc: 52.09
+Epoch: 1, Train loss: 1.0102, Train Acc: 64.20, Valid loss: 1.1299, Valid Acc: 60.24
+Epoch: 2, Train loss: 0.7893, Train Acc: 70.25, Valid loss: 1.0352, Valid Acc: 63.45
+Epoch: 3, Train loss: 0.7262, Train Acc: 74.56, Valid loss: 0.9896, Valid Acc: 65.24
+Epoch: 4, Train loss: 0.8268, Train Acc: 79.34, Valid loss: 0.9568, Valid Acc: 66.99
+Epoch: 5, Train loss: 0.4608, Train Acc: 84.92, Valid loss: 0.9558, Valid Acc: 68.25
+Epoch: 6, Train loss: 0.7152, Train Acc: 87.75, Valid loss: 1.0047, Valid Acc: 67.05
+Epoch: 7, Train loss: 0.2451, Train Acc: 92.74, Valid loss: 1.0773, Valid Acc: 67.77
+Epoch: 8, Train loss: 0.2547, Train Acc: 94.24, Valid loss: 1.1603, Valid Acc: 68.01
+Epoch: 9, Train loss: 0.1031, Train Acc: 97.75, Valid loss: 1.2625, Valid Acc: 67.35
+
+
+Starting prune iteration: 2
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.0691, Train Acc: 10.00, Valid loss: 3.0406, Valid Acc: 10.02
+Epoch: 0, Train loss: 1.1038, Train Acc: 57.87, Valid loss: 1.2692, Valid Acc: 55.64
+Epoch: 1, Train loss: 0.8665, Train Acc: 70.01, Valid loss: 1.0248, Valid Acc: 63.59
+Epoch: 2, Train loss: 0.9726, Train Acc: 74.52, Valid loss: 0.9658, Valid Acc: 66.18
+Epoch: 3, Train loss: 0.5962, Train Acc: 79.28, Valid loss: 0.9530, Valid Acc: 66.59
+Epoch: 4, Train loss: 0.6555, Train Acc: 83.83, Valid loss: 0.9428, Valid Acc: 69.40
+Epoch: 5, Train loss: 0.3513, Train Acc: 88.76, Valid loss: 0.9967, Valid Acc: 68.49
+Epoch: 6, Train loss: 0.2314, Train Acc: 92.43, Valid loss: 1.0293, Valid Acc: 68.84
+Epoch: 7, Train loss: 0.1604, Train Acc: 95.74, Valid loss: 1.1481, Valid Acc: 68.84
+Epoch: 8, Train loss: 0.2893, Train Acc: 96.11, Valid loss: 1.2714, Valid Acc: 68.09
+Epoch: 9, Train loss: 0.0769, Train Acc: 98.18, Valid loss: 1.4074, Valid Acc: 67.87
+
+
+Starting prune iteration: 3
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.2132, Train Acc: 10.00, Valid loss: 3.1938, Valid Acc: 10.02
+Epoch: 0, Train loss: 0.9392, Train Acc: 56.94, Valid loss: 1.2775, Valid Acc: 53.80
+Epoch: 1, Train loss: 0.7651, Train Acc: 73.47, Valid loss: 0.9887, Valid Acc: 64.94
+Epoch: 2, Train loss: 1.0057, Train Acc: 78.72, Valid loss: 0.9367, Valid Acc: 67.87
+Epoch: 3, Train loss: 0.4648, Train Acc: 84.29, Valid loss: 0.9835, Valid Acc: 67.65
+Epoch: 4, Train loss: 0.3617, Train Acc: 89.87, Valid loss: 0.9731, Valid Acc: 68.96
+Epoch: 5, Train loss: 0.2042, Train Acc: 94.46, Valid loss: 1.0814, Valid Acc: 68.53
+Epoch: 6, Train loss: 0.2128, Train Acc: 95.58, Valid loss: 1.1944, Valid Acc: 68.17
+Epoch: 7, Train loss: 0.0816, Train Acc: 98.26, Valid loss: 1.3271, Valid Acc: 68.86
+
+
+Starting prune iteration: 4
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.6504, Train Acc: 10.00, Valid loss: 3.6329, Valid Acc: 10.02
+Epoch: 0, Train loss: 0.8989, Train Acc: 61.01, Valid loss: 1.2037, Valid Acc: 57.41
+Epoch: 1, Train loss: 0.6486, Train Acc: 78.32, Valid loss: 0.9507, Valid Acc: 66.77
+Epoch: 2, Train loss: 0.5309, Train Acc: 82.56, Valid loss: 0.9381, Valid Acc: 68.31
+Epoch: 3, Train loss: 0.3207, Train Acc: 90.44, Valid loss: 0.9934, Valid Acc: 69.16
+Epoch: 4, Train loss: 0.5371, Train Acc: 93.46, Valid loss: 1.0436, Valid Acc: 69.16
+Epoch: 5, Train loss: 0.1347, Train Acc: 96.61, Valid loss: 1.1827, Valid Acc: 68.29
+Epoch: 6, Train loss: 0.0853, Train Acc: 98.26, Valid loss: 1.2709, Valid Acc: 68.61
+
+
+Starting prune iteration: 5
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.6088, Train Acc: 10.00, Valid loss: 3.5934, Valid Acc: 10.02
+Epoch: 0, Train loss: 0.9357, Train Acc: 64.42, Valid loss: 1.1517, Valid Acc: 58.51
+Epoch: 1, Train loss: 0.5535, Train Acc: 82.25, Valid loss: 0.9401, Valid Acc: 67.55
+Epoch: 2, Train loss: 0.4642, Train Acc: 87.90, Valid loss: 0.9421, Valid Acc: 69.34
+Epoch: 3, Train loss: 0.2175, Train Acc: 94.62, Valid loss: 1.0126, Valid Acc: 69.00
+Epoch: 4, Train loss: 0.2263, Train Acc: 96.29, Valid loss: 1.0950, Valid Acc: 69.04
+Epoch: 5, Train loss: 0.1074, Train Acc: 97.64, Valid loss: 1.1928, Valid Acc: 69.26
+
+
+Starting prune iteration: 6
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.3905, Train Acc: 10.00, Valid loss: 3.3827, Valid Acc: 10.02
+Epoch: 0, Train loss: 0.9045, Train Acc: 68.89, Valid loss: 1.1051, Valid Acc: 62.29
+Epoch: 1, Train loss: 0.4895, Train Acc: 84.87, Valid loss: 0.9363, Valid Acc: 68.29
+Epoch: 2, Train loss: 0.4015, Train Acc: 89.10, Valid loss: 0.9636, Valid Acc: 68.98
+Epoch: 3, Train loss: 0.1990, Train Acc: 95.02, Valid loss: 1.0517, Valid Acc: 69.00
+Epoch: 4, Train loss: 0.1654, Train Acc: 97.14, Valid loss: 1.1209, Valid Acc: 69.24
+Epoch: 5, Train loss: 0.0740, Train Acc: 98.66, Valid loss: 1.2905, Valid Acc: 68.65
+Epoch: 6, Train loss: 0.0571, Train Acc: 99.21, Valid loss: 1.3982, Valid Acc: 68.15
+Epoch: 7, Train loss: 0.0322, Train Acc: 99.60, Valid loss: 1.5028, Valid Acc: 68.67
+
+
+Starting prune iteration: 7
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.1320, Train Acc: 11.67, Valid loss: 3.1234, Valid Acc: 11.67
+Epoch: 0, Train loss: 0.8605, Train Acc: 69.71, Valid loss: 1.0941, Valid Acc: 62.37
+Epoch: 1, Train loss: 0.4660, Train Acc: 85.89, Valid loss: 0.9535, Valid Acc: 68.35
+Epoch: 2, Train loss: 0.3848, Train Acc: 91.16, Valid loss: 0.9695, Valid Acc: 68.31
+Epoch: 3, Train loss: 0.1585, Train Acc: 96.86, Valid loss: 1.0637, Valid Acc: 68.94
+Epoch: 4, Train loss: 0.1792, Train Acc: 97.72, Valid loss: 1.1921, Valid Acc: 68.51
+Epoch: 5, Train loss: 0.0607, Train Acc: 99.01, Valid loss: 1.3619, Valid Acc: 68.27
+Epoch: 6, Train loss: 0.0389, Train Acc: 99.52, Valid loss: 1.4417, Valid Acc: 67.59
+
+
+Starting prune iteration: 8
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.8241, Train Acc: 10.00, Valid loss: 3.8090, Valid Acc: 10.02
+Epoch: 0, Train loss: 0.9023, Train Acc: 69.47, Valid loss: 1.1034, Valid Acc: 61.57
+Epoch: 1, Train loss: 0.4438, Train Acc: 87.44, Valid loss: 0.9349, Valid Acc: 67.89
+Epoch: 2, Train loss: 0.4573, Train Acc: 91.36, Valid loss: 0.9623, Valid Acc: 67.91
+Epoch: 3, Train loss: 0.1586, Train Acc: 96.89, Valid loss: 1.0740, Valid Acc: 68.43
+Epoch: 4, Train loss: 0.2159, Train Acc: 97.57, Valid loss: 1.1736, Valid Acc: 67.93
+Epoch: 5, Train loss: 0.0628, Train Acc: 99.03, Valid loss: 1.3742, Valid Acc: 67.81
+
+
+Starting prune iteration: 9
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 2.9128, Train Acc: 14.76, Valid loss: 2.9094, Valid Acc: 14.16
+Epoch: 0, Train loss: 0.8506, Train Acc: 69.27, Valid loss: 1.1145, Valid Acc: 61.61
+Epoch: 1, Train loss: 0.4763, Train Acc: 86.16, Valid loss: 0.9409, Valid Acc: 67.71
+Epoch: 2, Train loss: 0.4258, Train Acc: 90.68, Valid loss: 0.9520, Valid Acc: 67.85
+Epoch: 3, Train loss: 0.1774, Train Acc: 96.44, Valid loss: 1.0652, Valid Acc: 67.95
+Epoch: 4, Train loss: 0.1283, Train Acc: 97.46, Valid loss: 1.1603, Valid Acc: 67.93
+Epoch: 5, Train loss: 0.0684, Train Acc: 99.10, Valid loss: 1.3238, Valid Acc: 67.57
+
+
+Starting prune iteration: 10
+
+Debug: fc_out pruned.
+Stats before training: Train loss: 3.4318, Train Acc: 10.00, Valid loss: 3.4203, Valid Acc: 10.02
+Epoch: 0, Train loss: 0.8361, Train Acc: 68.28, Valid loss: 1.1272, Valid Acc: 60.98
+Epoch: 1, Train loss: 0.5367, Train Acc: 83.59, Valid loss: 0.9599, Valid Acc: 66.95
+Epoch: 2, Train loss: 0.4428, Train Acc: 90.08, Valid loss: 0.9373, Valid Acc: 68.65
+Epoch: 3, Train loss: 0.2354, Train Acc: 93.80, Valid loss: 1.0675, Valid Acc: 67.99
+Epoch: 4, Train loss: 0.2226, Train Acc: 97.26, Valid loss: 1.0982, Valid Acc: 68.53
+Epoch: 5, Train loss: 0.1148, Train Acc: 97.94, Valid loss: 1.1831, Valid Acc: 68.53
