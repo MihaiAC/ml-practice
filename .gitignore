@@ -1,3 +1,4 @@
-
+*.csv
+*-checkpoint.ipynb
 /NLP/Experiments/.ipynb_checkpoints
 NLP/Experiments/Huggingface_read_token.txt
