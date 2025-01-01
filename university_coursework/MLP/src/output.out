@@ -1,6 +1,3 @@
-/home/sorinvladu9/anaconda3/lib/python3.7/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class '__main__.LeNet300_100' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
-  warnings.warn(msg, SourceChangeWarning)
-
 Beginning experiment: snip_fc1_260220_0_1
 
 tensor(213060, device='cuda:0')
@@ -150,8 +147,6 @@ Epoch: 8, Train loss: 0.0410, Train Acc: 99.32, Valid loss: 0.0980, Valid Acc: 9
 Epoch: 9, Train loss: 0.0225, Train Acc: 99.62, Valid loss: 0.0921, Valid Acc: 97.63
 Epoch: 10, Train loss: 0.0193, Train Acc: 99.62, Valid loss: 0.1005, Valid Acc: 97.63
 Epoch: 11, Train loss: 0.0153, Train Acc: 99.49, Valid loss: 0.1069, Valid Acc: 97.59
-/home/sorinvladu9/anaconda3/lib/python3.7/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class '__main__.LeNet300_100' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
-  warnings.warn(msg, SourceChangeWarning)
 
 Beginning experiment: snip_fc1_260220_1_1
 

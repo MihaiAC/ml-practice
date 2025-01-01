@@ -1,0 +1,2 @@
+Experiment files and report for the "Machine Learning Practical" group project (2020). \
+The aim of the project was to validate a [paper](https://arxiv.org/abs/1803.03635) and try to extend it in an original way.

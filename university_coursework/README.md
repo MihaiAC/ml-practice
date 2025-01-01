@@ -1,0 +1,1 @@
+Contains past homework for some of the courses I took at the University of Edinburgh.
