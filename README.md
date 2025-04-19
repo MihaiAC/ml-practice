@@ -1,2 +1,1 @@
-# Data-Science-and-ML
-A collection of ML-related coursework, tutorials and miscellaneous scripts.
+ML-related tutorials, uni coursework and other miscellaneous scripts.
